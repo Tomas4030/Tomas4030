@@ -21,7 +21,7 @@
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tomas-miguel&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ### Contacto
 - GitHub: [github.com/tomas-miguel](https://github.com/tomas-miguel)
