@@ -3,16 +3,15 @@
 
 ## Sobre mim
 - 🎓 Estudante de Programação Web na [ETIC Algarve](https://www.eticalg.com/)
-- 💻 Apaixonado por criar sites e aplicações interativas
+- 💻 Gosto por criar sites e aplicações interativas
 - 🌱 Atualmente a aprender sobre front-end e back-end
-- 📚 Interessado em sempre melhorar as minhas habilidades em JavaScript, React, Node.js, e outras tecnologias
 - 📬 Sinta-se à vontade para entrar em contato comigo pelo email: [tomas.miguel@email.com](mailto:tomas.miguel@email.com)
 
 ## Principais Tecnologias
 - 🔧 HTML, CSS, JavaScript
-- ⚙️ Node.js, Express
-- 📱 React
-- 🗄️ MongoDB, MySQL
+- ⚙️ 
+- 📱 
+- 🗄️ MySQL
 
 ## Projetos em destaque
 - [Meu portfólio online](link-do-repositorio) - Um site para mostrar os meus projetos e habilidades.
