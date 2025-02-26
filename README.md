@@ -14,9 +14,7 @@
 - 🗄️ MySQL
 
 ## Projetos em destaque
-- [Meu portfólio online](link-do-repositorio) - Um site para mostrar os meus projetos e habilidades.
-- [Aplicação de To-Do List](link-do-repositorio) - Uma aplicação simples de lista de tarefas com React.
-- [API para gerenciamento de usuários](link-do-repositorio) - Backend com Node.js e Express.
+- [Meu portfólio online](tomas4030.github.io/Tm-Portfolio/) - Um site para mostrar os meus projetos e habilidades.
 
 ### 📈 Estatísticas do GitHub
 
