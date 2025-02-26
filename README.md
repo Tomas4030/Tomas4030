@@ -14,7 +14,7 @@
 - 🗄️ MySQL
 
 ## Projetos em destaque
-- [Meu portfólio online](tomas4030.github.io/Tm-Portfolio/) - Um site para mostrar os meus projetos e habilidades.
+- [Meu portfólio online](https://tomas4030.github.io/Tm-Portfolio/) - Um site para mostrar os meus projetos e habilidades.
 
 ### 📈 Estatísticas do GitHub
 
