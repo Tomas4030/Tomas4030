@@ -24,3 +24,10 @@
 
 - 🐙 GitHub: [github.com/Tomas4030](https://github.com/Tomas4030)
 - 💼 LinkedIn: [linkedin.com/in/tomas-miguel](https://www.linkedin.com/in/tomas-miguel)
+
+
+<style>
+  h2 {
+    border-bottom: none;
+  }
+</style>
