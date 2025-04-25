@@ -1,6 +1,6 @@
-# 👋 Olá, sou o Tomas Miguel
+### 👋 Olá, sou o Tomas Miguel
 
-## 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre mim
 - 🎓 Estudante de Programação Web na [ETIC Algarve](https://www.eticalg.com/)
 - 💻 Apaixonado por criar sites e aplicações interativas
 - 🌱 Atualmente aprendendo sobre front-end e back-end
