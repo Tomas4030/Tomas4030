@@ -20,8 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true"  width="365px"/>
 </div>
 
----
-
 ## 📞 Contacto
 
 - 🐙 GitHub: [github.com/Tomas4030](https://github.com/Tomas4030)
