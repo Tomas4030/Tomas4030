@@ -16,11 +16,14 @@
 ## Projetos em destaque
 - [Meu portfólio online](https://tomas4030.github.io/Tm-Portfolio/) - Um site para mostrar os meus projetos e habilidades.
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" style="min-height: 195px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true" width="49.5%" style="min-height: 195px;"/>
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&theme=tokyonight&hide_border=true" width="60%"/>
+  <br><br>
+  <h3>📚 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
+
 
 
 
