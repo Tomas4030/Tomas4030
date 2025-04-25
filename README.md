@@ -16,8 +16,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&theme=tokyonight&hide_border=true" width="440px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true"  width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&theme=tokyonight&hide_border=true" width="460px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true"  width="380px"/>
 </div>
 
 ---
