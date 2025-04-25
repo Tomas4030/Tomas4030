@@ -20,9 +20,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomas4030&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true" width="49.5%"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact&theme=tokyonight&hide_border=true)
 
 ### Contacto
 - GitHub: [github.com/tomas-miguel](https://github.com/tomas-miguel)
