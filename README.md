@@ -3,7 +3,7 @@
 - 🎓 Estudante de Programação Web na [ETIC Algarve](https://www.eticalg.com/)
 - 💻 Apaixonado por criar sites e aplicações interativas
 - 🌱 Atualmente aprendendo sobre front-end e back-end
-- 📬 Pode entrar em contato comigo pelo e-mail: [tomas.miguel@email.com](mailto:tomas.miguel@email.com)
+- 📬 Pode entrar em contato comigo pelo e-mail: [tomas_miguel@eticalgarve.com](mailto:tomas_miguel@eticalgarve.com)
 
 
 ### 🚀 Principais Tecnologias
