@@ -11,7 +11,7 @@
 - **Design & UI:** Figma, boas práticas de UI/UX  
 - **Backend (base):** Python, APIs  
 - **Bases de Dados:** postgres  
-- **Ferramentas:** Git, GitHub, Docker (introdução)
+- **Ferramentas:** Git, GitHub, Docker
 
 ---
 
