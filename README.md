@@ -20,6 +20,11 @@
 🎨 **Portfólio Online**  
 Website pessoal para apresentar projetos e competências em frontend.
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Tomas4030)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas4030&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tomas4030)
+![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge)
+
 ---
 
 ## 📬 Contacto
