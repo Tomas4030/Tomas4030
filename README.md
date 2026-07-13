@@ -1,50 +1,73 @@
-# Miguell
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=60&height=90&text=Miguell" alt="Miguell"/>
+</p>
 
-Frontend Developer from Portugal.
+<h3 align="center">Frontend Developer</h3>
 
-I build fast, modern and accessible interfaces using React, Next.js and TypeScript.
+<p align="center">
+Building modern, fast and intuitive digital experiences.
+</p>
 
-Although I'm comfortable working with backend technologies, my focus has always been creating great frontend experiences.
+<p align="center">
+  🇵🇹 Portugal
+  <br><br>
+  <a href="https://github.com/tomas4030">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/tomas-miguell/">LinkedIn</a>
+</p>
 
----
+<br>
 
-## Stack
+<p align="center">
 
-React • Next.js • TypeScript • Tailwind CSS • React Native
+Frontend is where I enjoy building the most.
 
-Node.js • FastAPI • PostgreSQL • Supabase • Docker
+Although I'm comfortable working across the stack,
+my passion is creating clean, responsive and accessible interfaces
+using modern technologies.
 
----
+</p>
 
-## Featured Projects
+<br>
 
-### Project Name
+<h2 align="center">Tech Stack</h2>
 
-One sentence describing what it does.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css,nodejs,supabase,postgres,docker,git,figma&perline=7" />
+</p>
 
-→ Demo
-→ Source
+<br>
 
-### Project Name
+<h2 align="center">Currently</h2>
 
-One sentence describing what it does.
+<p align="center">
 
-→ Demo
-→ Source
+🚀 Building personal projects
 
-### Project Name
+🎨 Improving UI & UX skills
 
-One sentence describing what it does.
+📱 Exploring React Native
 
-→ Demo
-→ Source
+⚡ Learning more about animations and accessibility
 
----
+</p>
 
-## GitHub Stats
+<br>
 
-(stats)
+<h2 align="center">GitHub Stats</h2>
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=tomas4030&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true"/>
 
-LinkedIn • Portfolio • Email
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=tomas4030&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9"/>
+</p>
+
+<br>
+
+<p align="center">
+<i>"Great user experiences are built one detail at a time."</i>
+</p>
+
+<p align="center">
+Thanks for stopping by 👋
+</p>
